@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Inventory_Upload_Site/static/css/main.da3ff011.css",
-    "main.js": "/Inventory_Upload_Site/static/js/main.2d0e85ba.js",
+    "main.js": "/Inventory_Upload_Site/static/js/main.cf4abd1b.js",
     "static/js/787.54d50ef6.chunk.js": "/Inventory_Upload_Site/static/js/787.54d50ef6.chunk.js",
     "static/media/success.gif": "/Inventory_Upload_Site/static/media/success.ab931b9a86b65d43692b.gif",
     "static/media/failed.gif": "/Inventory_Upload_Site/static/media/failed.942922e4ad3c7fb5031f.gif",
@@ -9,11 +9,11 @@
     "static/media/kbm.svg": "/Inventory_Upload_Site/static/media/kbm.1ee356f27bab234e24819c1c610e8f17.svg",
     "index.html": "/Inventory_Upload_Site/index.html",
     "main.da3ff011.css.map": "/Inventory_Upload_Site/static/css/main.da3ff011.css.map",
-    "main.2d0e85ba.js.map": "/Inventory_Upload_Site/static/js/main.2d0e85ba.js.map",
+    "main.cf4abd1b.js.map": "/Inventory_Upload_Site/static/js/main.cf4abd1b.js.map",
     "787.54d50ef6.chunk.js.map": "/Inventory_Upload_Site/static/js/787.54d50ef6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.da3ff011.css",
-    "static/js/main.2d0e85ba.js"
+    "static/js/main.cf4abd1b.js"
   ]
 }
